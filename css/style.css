@@ -1,0 +1,24 @@
+#walrus-showing {
+    display: none;
+}
+.dark-mode{
+    background-color: #121212;
+    color: white;
+}
+.col-md-12 {
+    position: absolute;
+    float: left;
+}
+.light-mode{
+    background-color: white;
+}
+.scope{
+    margin-top: 50px;
+}
+.clickable{
+    color: blue;
+}
+.yellow{
+    background-color: black;
+    color: yellow;
+}
